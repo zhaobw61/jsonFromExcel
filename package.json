@@ -1,0 +1,22 @@
+{
+  "name": "jsonfromexcel",
+  "version": "1.0.0",
+  "description": "excel转换为json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaobw61/jsonFromExcel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaobw61/jsonFromExcel/issues"
+  },
+  "homepage": "https://github.com/zhaobw61/jsonFromExcel#readme",
+  "dependencies": {
+    "xls-to-json": "^0.5.2"
+  }
+}
